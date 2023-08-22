@@ -1,6 +1,6 @@
 ## Order Calculator
 ```
-This Service is to calculate the total cost of order bases on provided rates matric
+This Service is to calculate the total cost of order based on provided rates matric
 ```
 Instructions to run OrderCalculator service:
 
